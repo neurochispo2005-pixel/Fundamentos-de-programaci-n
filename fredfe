@@ -13,6 +13,3 @@ porcentaje = total / 24 * 100
 print("Nombre:", nombre)
 print("Tiempo total:", total, "horas")
 print("Porcentaje del día:", porcentaje, "%")
-
-
-
